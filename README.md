@@ -10,15 +10,15 @@ Data from [The Met’s Open Access collection](https://www.metmuseum.org/art/col
 **DATA**  
 For each painting within The Met’s collection created in 1900 and after, I collected both text and image data. I collected an image of the painting and text information on the artist, date, medium, accession #, and painting description. While a web scraping of The Met’s collection yielded 3800 observations, only 1106 had the painting description. This description is essential for the created recommender system. Details on the web scraping can be found in web scraping.ipynb and webscraping2.ipynb.
 
-**RECOMMENDER SYSTEM**
+**RECOMMENDER SYSTEM**. 
 Details on the recommender system can be found in classification on blurbs.ipynb.
 
 ----
 This repo contains:  
  **Code**
- * web scraping.ipynb
- * webscraping2.ipynb
- * classification on blurbs.ipynb
+ * web scraping.ipynbXX
+ * webscraping2.ipynbXX
+ * classification on blurbs.ipynbXX
  
  **Data**. 
  * blurbsComplete.pkl
