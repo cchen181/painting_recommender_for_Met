@@ -7,6 +7,8 @@ This recommender system is easy to use. Once a visitor provides a piece of art s
 
 Data from [The Met’s Open Access collection](https://www.metmuseum.org/art/collection/search#!?q=&perPage=20&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0) was obtained to create the recommendation system. The data collected focus on paintings within the collection since 1900. Upon exploring the data, I decided to create a recommender system built on the premise that painting descriptions can be used to determine similar paintings. In other words, the text associated with each painting is used to build a recommender for the paintings themselves.
 
+For each painting within The Met’s collection created in 1900 and after, I collected both text and image data. I collected an image of the painting and text information on the artist, date, medium, accession #, and painting description. While a web scraping of The Met’s collection yielded 3800 observations, only 1106 had the painting description. This description is essential for the created recommender system. Details on the web scraping can be found in web scraping.ipynb and webscraping2.ipynb.
+
 ----
 This repo contains:  
  **Code**
