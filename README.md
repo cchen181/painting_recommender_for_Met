@@ -8,18 +8,18 @@ This recommender system is easy to use. Once a visitor provides a piece of art s
 Data from [The Met’s Open Access collection](https://www.metmuseum.org/art/collection/search#!?q=&perPage=20&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0) was obtained to create the recommendation system. The data collected focus on paintings within the collection since 1900. Upon exploring the data, I decided to create a recommender system built on the premise that painting descriptions can be used to determine similar paintings. In other words, the text associated with each painting is used to build a recommender for the paintings themselves.
 
 ----
-This repo contains:
+This repo contains:  
  **Code**
  * web scraping.ipynb
  * webscraping2.ipynb
  * classification on blurbs.ipynb
  
- **Data**
+ **Data**. 
  * blurbsComplete.pkl
  * jpg2.pkl
  * sites2.pkl
  
- **Slide Deck**
- ChristineChen_.ppt
+ **Slide Deck**. 
+ ChristineChen_presentation3.pdf
  
  
