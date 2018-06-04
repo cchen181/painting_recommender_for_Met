@@ -1,6 +1,8 @@
 # painting_recommender_for_Met
 Recommender system for visitors to use during trips to the Met Art Museum
 
+![Example 1](ChristineChen_presentation3.002.png)
+
 There are over 2 million pieces of art within The Metropolitan Museum of Art. Navigating through such a large art collection can easily overwhelm any museum goer. Therefore, I’ve created a recommender system which will suggest pieces of art visitors might enjoy. This system will enable visitors to focus on works of art they find attractive. It is a product that enhances the visitor experience. 
 
 This recommender system is easy to use. Once a visitor provides a piece of art s/he enjoys, the recommender will suggest four other museum pieces s/he may enjoy.
