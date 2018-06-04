@@ -18,10 +18,10 @@ In the future, I would like to incorporate user feedback into the model to refin
 **EXAMPLES**  
 Below are a few examples so you can gauge how well the recommender system performs.  
 
-<img src="https://github.com/cchen181/painting_recommender_for_Met/blob/master/ChristineChen_presentation3.007.png" width="400" height="400">
-![Example 1](ChristineChen_presentation3.007.png)
-![Example 2](ChristineChen_presentation3.008.png)
-![Example 3](ChristineChen_presentation3.009.png)
+#<img src="https://github.com/cchen181/painting_recommender_for_Met/blob/master/ChristineChen_presentation3.007.png" width="400" height="400">. 
+![Example 1](ChristineChen_presentation3.007.png)  
+![Example 2](ChristineChen_presentation3.008.png) 
+![Example 3](ChristineChen_presentation3.009.png) 
 
 ----
 This repo contains:  
