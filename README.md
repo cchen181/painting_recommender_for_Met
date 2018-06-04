@@ -25,4 +25,4 @@ Below are a few examples so you can gauge how well the recommender system perfor
 
 ![Example 3](images/example3.png) 
 
-* Note: [The default copyright laws apply, meaning that I retain all rights to my source code and no one may reproduce, distribute, or create derivative works from my work.](https://help.github.com/articles/licensing-a-repository/)
+Note: [The default copyright laws apply, meaning that I retain all rights to my source code and no one may reproduce, distribute, or create derivative works from my work.](https://help.github.com/articles/licensing-a-repository/)
