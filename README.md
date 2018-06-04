@@ -18,8 +18,8 @@ In the future, I would like to incorporate user feedback into the model to refin
 **EXAMPLES**  
 Below are a few examples so you can gauge how well the recommender system performs.  
 
-![Example 1](ChristineChen_presentation3.007.png)
+![Example 1](images/ChristineChen_presentation3.007.png)
 
-![Example 2](ChristineChen_presentation3.008.png)
+![Example 2](images/ChristineChen_presentation3.008.png)
 
-![Example 3](ChristineChen_presentation3.009.png) 
+![Example 3](images/ChristineChen_presentation3.009.png) 
