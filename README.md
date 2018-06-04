@@ -23,19 +23,3 @@ Below are a few examples so you can gauge how well the recommender system perfor
 ![Example 2](ChristineChen_presentation3.008.png)
 
 ![Example 3](ChristineChen_presentation3.009.png) 
-
-----
-This repo contains:  
- **Code**
- * web scraping.ipynbXX
- * webscraping2.ipynbXX
- * classification on blurbs.ipynbXX
- 
- **Data**. 
- * blurbsComplete.pkl
- * jpg2.pkl
- * sites2.pkl
- 
- **Slide Deck**. 
- ChristineChen_presentation3.pdf
- 
