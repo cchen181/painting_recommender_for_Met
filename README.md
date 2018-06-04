@@ -17,7 +17,7 @@ In the future, I would like to incorporate user feedback into the model to refin
 
 **EXAMPLES**  
 Below are a few examples so you can gauge how well the recommender system performs.
-
+![Example 1](../ChristineChen_presentation3.009.png)
 ----
 This repo contains:  
  **Code**
