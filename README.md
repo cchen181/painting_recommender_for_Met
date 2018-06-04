@@ -16,7 +16,7 @@ As previously stated, the recommender system is built on the premise that painti
 In the future, I would like to incorporate user feedback into the model to refine the recommender system.
 
 **EXAMPLES**  
-Below are a few examples so you can gauge how well the recommender system performs as is.
+Below are a few examples so you can gauge how well the recommender system performs.
 
 ----
 This repo contains:  
